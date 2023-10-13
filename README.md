@@ -7,8 +7,11 @@ For the numeric string '11123', with a difference of '1', the longest substring 
 
 Starting from the index 0, being a '1':
 Index 1: Is another '1', so is valid as it's the same number as the index.
+
 Index 2: Same as index 1.
+
 Index 3: Is a number '2', and the difference between the index is '1'; meaning is valid.
+
 Index 4: Is a number '3', and the difference between the index is '2'; meaning is invalid.
 
 The longest substring is 1112.
